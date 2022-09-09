@@ -1,1 +1,1 @@
-# mergeSort
+This code snippet is regarding the mergesort algorithm!
